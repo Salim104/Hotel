@@ -92,7 +92,30 @@ if(isset($_GET['search']))
     top: 80px;
 }
 
+.other-options {
+    float: left;
+    width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+    background-color: #e5e5e5;
+    padding: 35px 30px 20px 30px;
+}
 
+.feature-container{
+ width: 45%;
+ display: flex;
+ justify-content: space-between;
+}
+.feature-container img{
+ width: 30%;
+ 
+}
+
+/* 
+.feature-container  img{
+	width: 100%;
+} */
 
 
 </style>
@@ -189,7 +212,11 @@ if(isset($_GET['search']))
 										</div>
 										<div class="other-options">
 											<input type="submit" name='search' class="searching" value="Search Now" />
-											
+											<div class="feature-container">
+													<img src="./images/resources/feature-1.svg" alt="">
+													<img src="./images/resources/feature-3.svg" alt="">
+													<img src="./images/resources/feature-2.svg" alt="">
+											</div>
 										</div>
 											</form>
 									</div>
@@ -210,7 +237,7 @@ if(isset($_GET['search']))
 						<div class="col-md-4">
 							<div class="about-us">
 								<div class="title">
-									<h3>About Relax Hostel</h3>
+									<h3>About Relax Hotela</h3>
 								</div>
 								<h5><a href="about.html" title="">Discover what makes us a five star hostel</a></h5>
 								<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi.</p>

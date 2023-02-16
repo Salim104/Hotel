@@ -142,21 +142,21 @@ if(isset($_POST['submit']))
 									<img src="http://creativethemes.us/relax/images/icon11.png" alt="">
 									<div class="cn-info">
 										<h4>Address</h4>
-										<span>Lidharhostal,<br>V.P.O lidhran dist. Jalandhar</span>
+										<span>Gauteng,<br>20001 Johannesburg CBD.</span>
 									</div>
 								</div><!--contact-information end-->
 								<div class="contact-information style2">
 									<img src="http://creativethemes.us/relax/images/icon22.png" alt="">
 									<div class="cn-info">
 										<h4>Phone</h4>
-										<span>(+91)9878920494</span>
+										<span>O633214546</span>
 									</div>
 								</div><!--contact-information end-->
 								<div class="contact-information style2">
 									<img src="http://creativethemes.us/relax/images/icon33.png" alt="">
 									<div class="cn-info">
 										<h4>Email</h4>
-										<span> Rsrs4632815@gmail.com</span>
+										<span> Rsahotel007@gmail.com</span>
 									</div>
 								</div><!--contact-information end-->
 								<div class="shear">
@@ -240,7 +240,7 @@ if(isset($_POST['submit']))
 													<li><a href="#" title="">Suits</a></li>
 													<li><a href="#" title="">News</a></li>
 													<li><a href="#" title="">Contact Us</a></li>
-													<li><a href="#" title="">Bookisnt</a></li>
+													<li><a href="#" title="">Bookings</a></li>
 													<li><a href="#" title="">Blogs</a></li>
 												</ul>
 												<ul>
