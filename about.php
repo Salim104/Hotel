@@ -93,8 +93,18 @@
 						<div class="col-md-7">
 							<div class="relax-history">
 								<h3>Relax Hotela - Since 2020</h3>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip .</p>
-								<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.</p>
+								<p>
+								  Our knowledgeable team of travel consultants at South-African-Hotels.com make booking hotels
+								 at great rates really quick and easy! We provide travellers with an efficient and reliable online
+								  guide to assist with hotel, transport and activity bookingsall the way from Johannesburg, Durban and
+								   Cape Town in South Africa to exotic destinations such as Tanzania, Kenya, Mozambique and Madagascar.
+								</p>
+
+								<p>
+								We offer a wide variety of carefully selected accommodation options to ensure that unique travel 
+								requirements are met for business trips, romantic getaways, successful conferences, memorable family 
+								holidays, golf and beach vacations as well as luxurious train journeys
+								</p>
 								<ul>
 									<li>
 										<h5>200</h5>

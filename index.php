@@ -88,8 +88,8 @@ if(isset($_GET['search']))
 .row {
     margin-right: -15px;
     margin-left: -15px;
-    position: relative;
-    top: 80px;
+    /* position: relative;
+    top: 80px; */
 }
 
 .other-options {
@@ -240,7 +240,7 @@ if(isset($_GET['search']))
 									<h3>About Relax Hotela</h3>
 								</div>
 								<h5><a href="about.html" title="">Discover what makes us a five star hostel</a></h5>
-								<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi.</p>
+								<p>We offer a wide variety of carefully selected accommodation options to ensure that unique travel requirements are met for business trips, romantic getaways, successful conferences, memorable family holidays, golf and beach vacations as well as luxurious train journeys</p>
 								<ul class="ab-links">
 									<li><i class="fa fa-user-secret"></i>Dedicated Team</li>
 									<li><i class="fa fa-user"></i>Best Advisors</li>
@@ -253,7 +253,8 @@ if(isset($_GET['search']))
 								<div class="title f2">
 									<h3>Our Favorite Rooms</h3>
 								</div>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy magna aliquam erat volutpat. Ut wisi enim ad minim</p>
+								<p>We at Hotela  offer you and family the best accommodation and service you dream of, we have variety of rooms for you to choose from.
+</p>
 								<div class="row">
 									<div class="col-md-4">
 										<div class="fav-room">
@@ -328,22 +329,25 @@ if(isset($_GET['search']))
 									<div class="service owl-thumb-item">
 										<img src="images/res.png" alt="">
 										<h4>Restaurant</h4>
-										<p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam nonummy .</p>
+										<p>Our restaurants comes with specializes in producing the best quality food that comes from the best range of the world.</p>
 									</div><!--service end-->
 									<div class="service owl-thumb-item">
 										<img src="images/spar.png" alt="">
 										<h4>Spa - Beauty & Health</h4>
-										<p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam nonummy .</p>
+										<p>
+Feeling the strain of the daily grind? Whether you need your massage in Cape Town, Sandton, Pretoria or Port Elizabeth</p>
 									</div><!--service end-->
 									<div class="service owl-thumb-item">
 										<img src="images/meeting.png" alt="">
 										<h4>Conference Room</h4>
-										<p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam nonummy .</p>
+										<p>
+Hotela Conference Venue Guide has a comprehensive selection of conference venues, ranging from boardrooms to convention centres. Make an enquiry now</p>
 									</div><!--service end-->
 									<div class="service owl-thumb-item">
 										<img src="images/swim.png" alt="">
 										<h4>Swimming Pool</h4>
-										<p>Lorem ipsum dolor sit amet, consectetuer elit, sed diam nonummy .</p>
+										<p>
+at Hotela we own 11 swimming pools in all seven city regions to keep residents cool during the hot summer season</p>
 									</div><!--service end-->
 								</div>
 							</div><!--our-services end-->
@@ -527,7 +531,7 @@ if(isset($_GET['search']))
 									<div class="widget">
 										<div class="about-widget">
 											<a href="#" title=""><img src="images/log.png" alt="" /></a>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,  sed diam nonummy nibh euismod it tincidunt ut laoreet commodo consequat.  </p>
+											<p>We at Hotela  offer you and family the best accommodation and service you dream of, we have variety of rooms for you to choose from. </p>
 										
 											<ul class="sc-links">
 												<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
